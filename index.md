@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# About me
+<p style="text-align:justify;">
 
-You can use the [editor on GitHub](https://github.com/lcdem/lcdem.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Background
+## Studies
+* 2014: Laureate I (8th year) in piano interpretation, piano technique and musical theory at École de Musique Vincen d'Indy
+* 2015: DES and International Baccalaureate (IB) at Pensionnat-du-Saint-Nom-de-Marie
+* 2015: Laureate II (9th year) in piano technique and musical theory at École de Musique Vincen d'Indy
+* 2017: DEC at CEGEP Collège Jean-de-Brébeuf, in health sciences
+* 2022: Bachelor degree at Polytechnique Montréal, in Software Engineering, option artificial intelligence
+* 2022- : Masters at Polytechnique Montréal in artificial intelligence
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work Experience
+- Summer of 2019: Internship in networking at Hydro-Québec
+- 2020 - 2021: Teacher's Assistant in Netwoking at Polytechnique Montréal
+- Summer of 2020: Internship in Web development at Ubisoft
+- Summer of 2021: Internship in an AI team for video games at Ubisoft
+- Summer of 2022: Internship in a Machine Learning team at Ubisoft
 
-### Markdown
+# Research and areas of interest
+My Master's project is focusing on Constraint Programming and Machine Learning in the field of Music Generation. I am also interested in the following subjects:
+- Natural Language Processing
+- Reinforcement Learning
+- Computer Vision
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lcdem/lcdem.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Other interests

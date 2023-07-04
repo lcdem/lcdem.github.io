@@ -1,5 +1,4 @@
-# About me
-<p style="text-align:justify;"> Hello
+
   
 # Background
 ## Studies

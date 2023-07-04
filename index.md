@@ -1,6 +1,6 @@
 # About me
-<p style="text-align:justify;">
-
+<p style="text-align:justify;"> Hello
+  
 # Background
 ## Studies
 * 2014: Laureate I (8th year) in piano interpretation, piano technique and musical theory at École de Musique Vincent d'Indy

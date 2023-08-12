@@ -1,4 +1,4 @@
-![Image](/assets/images/IMG8668 (2).jpg)
+![Image](/assets/images/IMG_8668 (2).jpg)
 # Background
 ## Studies
 * 2014: Laureate I (8th year) in piano interpretation, piano technique and musical theory at École de Musique Vincent d'Indy

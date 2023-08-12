@@ -1,4 +1,5 @@
 # Liliane-Caroline Demers
+![Image](src=IMG_8668 (2))
 ## Background
 ### Studies
 * 2014: Laureate I (8th year) in piano interpretation, piano technique and musical theory at École de Musique Vincent d'Indy

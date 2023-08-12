@@ -6,8 +6,8 @@
 * 2015: DES and International Baccalaureate (IB) at Pensionnat-du-Saint-Nom-de-Marie
 * 2015: Laureate II (9th year) in piano technique and musical theory at École de Musique Vincent d'Indy
 * 2017: DEC at CEGEP Collège Jean-de-Brébeuf, in health sciences
-* 2022: Bachelor degree at Polytechnique Montréal, in Software Engineering, option artificial intelligence
-* 2022- : Masters at Polytechnique Montréal in artificial intelligence
+* 2022: Bachelor degree at Polytechnique Montréal, in Software Engineering
+* 2022- : Masters at Polytechnique Montréal in Artificial Intelligence
 
 ## Work Experience
 - Summer of 2019: Internship in networking at Hydro-Québec

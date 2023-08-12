@@ -1,4 +1,4 @@
-![Image](./IMG8668 (2).jpg)
+![Image](/assets/images/IMG8668 (2).jpg)
 # Background
 ## Studies
 * 2014: Laureate I (8th year) in piano interpretation, piano technique and musical theory at École de Musique Vincent d'Indy
@@ -21,3 +21,6 @@ My Master's project is focusing on Constraint Programming and Machine Learning i
 # Other interests
 <p style="text-align: justify">I developped a passion for music by learning the piano since I was 6 years-old. I especially love the composers Chopin, Debussy, Liszt, Beethoven and Eugénie Rocherolle.
 I love to escape in books of fiction. I also enjoy ice skating and am always up for a tennis match or for a swim.</p>
+
+# Social Media
+Add me on [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/liliane-caroline-demers/))! 

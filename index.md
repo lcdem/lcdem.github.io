@@ -19,5 +19,5 @@
 My Master's project is focusing on Constraint Programming and Machine Learning in the field of Music Generation. 
 
 # Other interests
-I developped a passion for music by learning the piano since I was 6 years-old. I especially love the composers Chopin, Debussy, Liszt, Beethoven and Eugénie Rocherolle.
-I love to escape in books of fiction. I also enjoy ice skating and am always up for a tennis match or for a swim. 
+<p style="text-align: justify">I developped a passion for music by learning the piano since I was 6 years-old. I especially love the composers Chopin, Debussy, Liszt, Beethoven and Eugénie Rocherolle.
+I love to escape in books of fiction. I also enjoy ice skating and am always up for a tennis match or for a swim.</p>

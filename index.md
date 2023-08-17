@@ -9,14 +9,15 @@
 * 2022- : Masters at Polytechnique Montréal in Artificial Intelligence
 
 ## Work Experience
-- Summer of 2019: Internship in networking at Hydro-Québec
-- 2020 - 2021: Teacher's Assistant in Netwoking at Polytechnique Montréal
-- Summer of 2020: Internship in Web development at Ubisoft
+- Summer of 2019: Internship in Networking at Hydro-Québec
+- 2020 - 2021: Teacher's Assistant in Networking at Polytechnique Montréal
+- Summer of 2020: Internship in Web Development at Ubisoft
 - Summer of 2021: Internship in an AI team for video games at Ubisoft
 - Summer of 2022: Internship in a Machine Learning team at Ubisoft
 
-# Research and areas of interest
-My Master's project is focusing on Constraint Programming and Machine Learning in the field of Music Generation. 
+# Research
+My Master's project is focusing on the combination of Constraint Programming and Machine Learning in the field of Music Generation. 
+
 
 # Other interests
 <p style="text-align: justify">I developped a passion for music by learning the piano since I was 6 years-old. I especially love the composers Chopin, Debussy, Liszt, Beethoven and Eugénie Rocherolle.

@@ -1,7 +1,7 @@
 I am a Master's student at Polytechnique Montréal in Artificial Intelligence. I am interested in Machine Learning, Reinforcement Learning and Constraint Programming.
 
 Add me on [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/liliane-caroline-demers/))!
-![Image](./IMG_8668_(2).JPG) 
+![Liliane-Caroline Demers](./IMG_8668_(2).JPG) 
 <img style="float: left" src="./IMG_8668_(2).JPG" width="200">
 # Background
 ## Studies

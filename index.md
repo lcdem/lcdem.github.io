@@ -1,4 +1,4 @@
-<img style="float: left; padding-right: 30px" src="./IMG_8668_(2).JPG" width="200">
+<img style="float: right; padding-left: 30px" src="./IMG_8668_(2).JPG" width="200">
 I am a Master's student at Polytechnique Montréal in Artificial Intelligence. I am interested in Machine Learning, Reinforcement Learning and Constraint Programming.
 
 Add me on [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/liliane-caroline-demers/))!

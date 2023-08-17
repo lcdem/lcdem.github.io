@@ -1,7 +1,7 @@
 I am a Master's student at Polytechnique Montréal in Artificial Intelligence. I am interested in Machine Learning, Reinforcement Learning and Constraint Programming.
 
 Add me on [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/liliane-caroline-demers/))!
-![Image](./IMG_8668_(2).jpg)
+![Image](./IMG_8668_(2).JPG) 
 # Background
 ## Studies
 * 2014: Laureate I (8th year) in piano interpretation, piano technique and musical theory at École de Musique Vincent d'Indy

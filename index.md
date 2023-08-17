@@ -2,6 +2,7 @@ I am a Master's student at Polytechnique Montréal in Artificial Intelligence. I
 
 Add me on [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/liliane-caroline-demers/))!
 ![Image](./IMG_8668_(2).JPG) 
+<img style="float: left" src="./IMG_8668_(2).JPG" width="200">
 # Background
 ## Studies
 * 2014: Laureate I (8th year) in piano interpretation, piano technique and musical theory at École de Musique Vincent d'Indy

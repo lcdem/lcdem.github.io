@@ -12,7 +12,8 @@ Decoders,”](https://filuta.ai/papers/CompAI_2025_paper_7.pdf) with Professor G
 (workshop paper and talk)
     * Journées de l’optimisation (JOPT) 2024 (talk)
     * Doctoral Program, International Conference on Principles and Practice of Constraint Programming 
-(CP) 2023 (paper, talk and poster) 
+(CP) 2023 (paper, talk and poster)
+
 ## Studies
 * 2024: Masters at Polytechnique Montréal in Artificial Intelligence
 * 2022: Bachelor degree at Polytechnique Montréal in Software Engineering with option in Artificial Intelligence

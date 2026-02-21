@@ -2,7 +2,7 @@
 I am an AI researcher interested in neurosymbolic methods and sequence modeling, especially where structure and learning interact. I have research experience in constraint programming and Transformer-based sequence generation, applied AI experience from RL pathfinding work at Ubisoft.
 Add me on [LinkedIn](https://www.linkedin.com/in/liliane-caroline-demers/)!
 
-In 2024, I won the 1st prize and People's Choice Award at the Three-Minute Eastern Canada Regional Final Competition (3MT) at INRS, [watch it here](https://www.youtube.com/watch?v=dHB6TP2GPXs&ab_channel=Institutnationaldelarecherchescientifique&t=29m33s)!
+In 2024, I won the 1st prize and People's Choice Award at the Eastern Canada Regional Final of the **Three Minute Competition (3MT)** at INRS, [watch it here](https://www.youtube.com/watch?v=dHB6TP2GPXs&ab_channel=Institutnationaldelarecherchescientifique&t=29m33s)!
 
 # Research
 * **Sequence Generation with Long-Term Structure Using CP and ML (applied to symbolic music generation)**

@@ -15,8 +15,8 @@ Decoders,”](https://filuta.ai/papers/CompAI_2025_paper_7.pdf) with Professor G
 (CP) 2023 (paper, talk and poster)
 
 ## Studies
-* 2024: Masters at Polytechnique Montréal in Artificial Intelligence
-* 2022: Bachelor degree at Polytechnique Montréal in Software Engineering, with a focus in Artificial Intelligence
+* Masters at Polytechnique Montréal in Artificial Intelligence
+* Bachelor degree at Polytechnique Montréal in Software Engineering, with a focus in Artificial Intelligence
 
 ## Work Experience
 - October 2025: Research consultant at Adexflow

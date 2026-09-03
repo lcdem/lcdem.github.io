@@ -1,5 +1,5 @@
 <img style="float: right; padding-left: 30px" src="./IMG_8668_(2).JPG" width="200">
-<p style="text-align: justify">I am an AI researcher interested in neurosymbolic methods and sequence modeling, especially where structure and learning interact. I have research experience in constraint programming and Transformer-based sequence generation, applied AI experience from RL pathfinding work at Ubisoft.</p>
+<p style="text-align: justify">I am a PhD student at Mila interested in neurosymbolic methods and sequence modeling, especially where structure and learning interact. I have research experience in constraint programming and Transformer-based sequence generation, applied AI experience from RL pathfinding work at Ubisoft.</p>
 Add me on [LinkedIn](https://www.linkedin.com/in/liliane-caroline-demers/)!
 
 In 2024, I won the 1st prize and the People's Choice Award at the Eastern Canada Regional Final of the **Three Minute Competition (3MT)** at INRS, [watch it here](https://www.youtube.com/watch?v=dHB6TP2GPXs&ab_channel=Institutnationaldelarecherchescientifique&t=29m33s)!
